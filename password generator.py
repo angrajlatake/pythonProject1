@@ -1,6 +1,6 @@
 import random
 import string
-char= "1234567890qwertyuiopasdfghjklzxcvbnm!@#$%^&*"
+"""char= "1234567890qwertyuiopasdfghjklzxcvbnm!@#$%^&*" This is another option of using all the strings"""
 
 password_len = int(input("how long do you want yor password to be : "))
 password = int(input("How many passwords do you want to generate : "))
